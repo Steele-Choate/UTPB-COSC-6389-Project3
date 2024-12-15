@@ -1,3 +1,5 @@
+# Download: https://www.kaggle.com/datasets/avnishnish/mnist-original
+
 # Imported packages
 import numpy as np
 import tkinter as tk
